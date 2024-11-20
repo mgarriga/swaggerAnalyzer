@@ -3,8 +3,8 @@
 
 # COMMAND ----------
 
-!cp ../requirements.txt ~/.
-%pip install -r ~/requirements.txt
+# !cp ../requirements.txt ~/.
+# %pip install -r ~/requirements.txt
 
 # COMMAND ----------
 
